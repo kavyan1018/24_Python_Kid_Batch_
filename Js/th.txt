@@ -61,3 +61,16 @@ scope :
 .js it self is a block 
 ----------------------------------------------------------------
 
+opratoers : 
+
+1) Unary operator : it requires only one operand 
+2) Binary operator : it requires two operands
+3) Ternary operator : it requires three operands
+
+
+1) arithmetic operator : +, -, *, /, %, **(exponentiation)
+2) assignment operator : =, +=, -=, *=, /=, %=, **=
+3) comparison operator : ==, ===, !=, !==, >, <, >=, <=
+4) logical operator : &&, ||, !
+5) bitwise operator : &, |, ^, ~, <<, >>
+6) conditional operator : ? : // ternary operator    
