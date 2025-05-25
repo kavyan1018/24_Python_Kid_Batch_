@@ -1,0 +1,63 @@
+Java Script : 
+    programing language : c, cpp, Java
+    Scripting language : python, JavaScript, PHP, Ruby, Perl
+    Scripting language is subset of programming language.
+---------------------------------------------------------------
+
+statically typed language : 
+    c, cpp, Java : int , float, char, double, boolean
+
+dynamically typed language :
+    python, JavaScript
+
+
+we not need to define type of variable in dynamically typed language.
+// 10 -->  int 
+// "" --> string
+
+
+----------------------------------------------------------------
+server side : c, cpp, Java, python
+client side : JavaScript | output server side / browser side
+
+
+----------------------------------------------------------------
+
+c ->  turbo c 
+c vs --> gcc 
+
+
+compiler :
+    javascript compiler : babel
+    browser will have js engine
+
+v8 engine : chrome
+nitro engine : firefox, safari
+chk engine : edge
+
+
+Ways to write the code in JavaScript :
+1. Inline JavaScript
+2. Internal JavaScript
+3. External JavaScript --> .js file
+
+
+// to declar variable in JavaScript
+
+1) var 
+2) let
+3) const
+----------------------------------------------------------------
+
+scope :
+    var is haveing global scope 
+    let is having block scope
+    const is having block scope
+
+{
+    block scope.....
+}
+
+.js it self is a block 
+----------------------------------------------------------------
+
